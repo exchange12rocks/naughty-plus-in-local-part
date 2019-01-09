@@ -4,4 +4,5 @@
 * lufthansa.com - Adding an email address: "Your entry is invalid. Please enter an e-mail address in the e-mail format (example@domain.com). (60030)"
 * norwegian.com - Changing an email: "Username is invalid".
 * theentertainerme.com - Unsubsribe links in email messages do not work.
+* uralairlines.ru - Markenting emails are sent to "<part after the plus sign>@<domain>".
 * vk.com - Changing email address: "Incorrect email."
