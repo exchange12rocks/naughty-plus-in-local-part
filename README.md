@@ -5,6 +5,7 @@
 * lufthansa.com - Adding an email address: "Your entry is invalid. Please enter an e-mail address in the e-mail format (example@domain.com). (60030)"
 * norwegian.com - Changing an email address: "Username is invalid".
 * secure.square-enix.com - Changing an email address: "The e-mail address is invalid. Please enter a valid e-mail address."
+* techtarget.com - The unsubscribe function does not work. Example for "user+tag@example.com": "There was an error processing your request. user tag@example.com: We could not find the necessary data in the URL."
 * theentertainerme.com - Unsubsribe links in email messages do not work.
 * travel.b-europe.com - "Please enter a valid email address".
 * uralairlines.ru - Markenting emails are sent to "`<part after the plus sign>@<domain>`".
