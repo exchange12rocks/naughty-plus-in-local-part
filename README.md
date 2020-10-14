@@ -1,4 +1,4 @@
-* dreamwidth.org - Registration/Changing email address: "No spaces are allowed in an email address."
+* bitdefender.com - Business product inquiry form - "Please provide a valid email"
 * iptorrents.com - "That doesn't look like a valid email address."
 * wwws.klm.com.cy - "Sorry, something went wrong..." when updating profile email address.
 * lot.com - book.lot.com: "The information that you entered is not correct. Please verify and try again."
